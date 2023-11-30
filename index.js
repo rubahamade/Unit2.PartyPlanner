@@ -8,6 +8,7 @@ function render() {
             <h3>${event.date}</h3>
             <h3>${event.location}</h3>
             <p>${event.description}</p>
+            <button>Delete</button>
             
         `
     })

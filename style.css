@@ -1,1 +1,39 @@
-body {background-color: red;}
+
+
+
+
+.label {
+    width:60%;
+    margin-bottom: 1em;
+
+    font-size: 110%;
+}
+
+input{
+    width:80%;
+    box-sizing: border-box;
+    border: none;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    font-size: 110%;
+    padding: 0.5em;
+    margin-top: 0.5em;
+}
+
+textarea {
+    width:80%;
+    height:8em;
+    padding: 0.5em;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    font-size: 130%;
+    margin-top: 0.5em;
+}
+
+.button {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
